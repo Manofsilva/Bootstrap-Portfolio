@@ -47,11 +47,34 @@ table {
 	border-spacing: 0;
 }
 
-h1 {
-    font-size: 5em;
+body {
+    background-color: yellow;
 }
+
+h1 {
+    font-size: 3em;
+    margin-bottom: 1rem;
+}
+
+.mainheader {
+    margin: auto;
+}
+
+.navbar-brand {
+    margin-left: 7em;
+    padding: 20px;
+    background-color: #4aaaa5;
+    color: white;
+}
+
+ul {
+    margin-right: 9em;
+
+}
+
 .nametag{
     float: left;
+
 }
 
 .jumbotron {
@@ -62,4 +85,18 @@ h1 {
 #picme {
     float: left;
     margin-right: 1rem;
+}
+
+.btn-primary {
+    background-color: #4aaaa5;
+
+}
+
+#contact {
+    border: double;
+    margin-bottom: 1em;
+}
+
+.col-12 {
+    border: double;
 }
