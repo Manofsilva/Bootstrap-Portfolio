@@ -101,6 +101,9 @@ ul {
     margin-bottom: 1em;
 }
 
-.col-3 {
-
+#sitefooter {
+    margin: auto;
+    border-top: 8px solid #4aaaa5;
+    margin-top: 100px;
+    background: #666666;
 }
