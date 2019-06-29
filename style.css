@@ -60,6 +60,10 @@ h1 {
     margin: auto;
 }
 
+.navbar {
+    padding-bottom: 0px;
+}
+
 .navbar-brand {
     margin-left: 7em;
     padding: 20px;
