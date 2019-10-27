@@ -107,3 +107,12 @@ ul {
     margin-top: 100px;
     background: #666666;
 }
+
+h6 {
+    text-align: center;
+}
+
+@media only screen and (max-width: 575px) {
+    ul {
+      background-color: lightblue;
+    }
